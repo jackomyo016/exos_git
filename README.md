@@ -1,4 +1,4 @@
-# Exos pour git 🐱
+# Exos pour git 🐱 :koala:
 
 Le Chêne un jour dit au roseau :
 
