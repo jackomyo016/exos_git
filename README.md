@@ -1,1 +1,1 @@
-# exos_git
+# exos
